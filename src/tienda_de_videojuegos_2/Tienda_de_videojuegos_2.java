@@ -11,7 +11,7 @@ public class Tienda_de_videojuegos_2 {
         Scanner polo = new Scanner(System.in);
        int opcion=0,m,i;
        double total_a_pagar,porcentaje,descuento,descuentoaplicado;
-       double Agame,Bgame,Cgame,Dgame,Egame,Fgame;
+       double Agame;
        double cantidad,subtotal,copias;
        i=0;
        subtotal = 0;
